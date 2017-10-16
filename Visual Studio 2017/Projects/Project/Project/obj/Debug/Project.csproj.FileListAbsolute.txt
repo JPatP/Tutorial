@@ -1,0 +1,13 @@
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.KaNegosyo.resources
+C:\Users\Patrick\Documents\Visual Studio 2017\Projects\Project\Project\obj\Debug\Project.MainForm.resources
+C:\Users\Patrick\documents\visual studio 2017\Projects\Project\Project\bin\Debug\LoginDB.mdf
+C:\Users\Patrick\documents\visual studio 2017\Projects\Project\Project\bin\Debug\LoginDB_log.ldf
+C:\Users\Patrick\documents\visual studio 2017\Projects\Project\Project\obj\Debug\Project.Resources.SplashScreen.resources

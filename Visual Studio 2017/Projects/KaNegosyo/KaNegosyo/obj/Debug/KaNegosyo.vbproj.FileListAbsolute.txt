@@ -1,0 +1,17 @@
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\KaNegosyo.exe
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\KaNegosyo.pdb
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\KaNegosyo.xml
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.vbprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.Resources.resources
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.vbproj.GenerateResource.Cache
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.exe
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.xml
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.pdb
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\MySql.Data.dll
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\MySql.Data.xml
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\MySql.Data.Entity.EF6.xml
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.Login.resources
+c:\users\patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.SplashScreen.resources
+C:\Users\Patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\obj\Debug\KaNegosyo.mainForm.resources
+C:\Users\Patrick\documents\visual studio 2017\Projects\KaNegosyo\KaNegosyo\bin\Debug\Data.mdf

@@ -1,0 +1,14 @@
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\bin\Debug\UFT.exe.config
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\bin\Debug\UFT.exe
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\bin\Debug\UFT.pdb
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\bin\Debug\UFT.xml
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.vbprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.Form1.resources
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.Form2.resources
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.Resources.resources
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.vbproj.GenerateResource.Cache
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.exe
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.xml
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.pdb
+c:\users\patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.Form3.resources
+C:\Users\Patrick\documents\visual studio 2017\Projects\UFT\UFT\obj\Debug\UFT.Form4.resources
